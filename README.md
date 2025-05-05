@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Memory Efficient LM Compression using Fisher Information from Low-Rank Representations
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -152,3 +153,7 @@ This step takes the original model and the generated Fisher Information to perfo
   year={2024}, % TODO: Update Year
   url={https://arxiv.org/abs/xxxx.xxxxx} % TODO: Add arXiv or publication URL
 }
+=======
+# lora_fwsvd
+This repository provides the code implementation for the paper:  "Memory Efficient LM Compression using Fisher Information from Low-Rank Representations"
+>>>>>>> refs/remotes/origin/main
