@@ -145,10 +145,5 @@ This step takes the original model and the generated Fisher Information to perfo
 ## 🎓 Citation
 
 ```bibtex
-@inproceedings{moskovskiy2024memory, % TODO: Update with publication details when available
-  title={Memory Efficient LM Compression using Fisher Information from Low-Rank Representations},
-  author={Moskovskiy, Daniil and Pletenev, Sergey and Zagoruyko, Sergey and Panchenko, Alexander},
-  booktitle={Proceedings of the Conference Name}, % TODO: Add Conference/Journal
-  year={2024}, % TODO: Update Year
-  url={https://arxiv.org/abs/xxxx.xxxxx} % TODO: Add arXiv or publication URL
-}
+TBA
+```
